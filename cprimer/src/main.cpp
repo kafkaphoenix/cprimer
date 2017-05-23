@@ -16,7 +16,7 @@ int main(){
 //	std::string value="";
 //
 //	while(std::cin>>value){
-//		std::cout<<value; //control+z+enter introduce fin de fichero
+//		std::cout<<value; //control+z+enter introduce fin de fichero o /0
 //	}
 	
 	// Da error porque el cierre hace que el otro cierre quede fuera del comentario /*/**/*/
@@ -26,7 +26,7 @@ int main(){
 	if(std::cin >> total){
 		Sales_item trans;
 		while(std::cin>>trans){
-			if(total.isbn() == trans.isbn){
+			if(total.isbn() == trans.isbn()){
 				total += trans;
 			}else{
 				std::cout << total << std::endl;//endl libera el buffer
