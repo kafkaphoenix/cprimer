@@ -23,6 +23,9 @@ int main(){
 
 	Sales_item total;
 
+	//0-201-78345-X 3 20.00
+	//0-201-78345-X 2 25.00
+
 	if(std::cin >> total){
 		Sales_item trans;
 		while(std::cin>>trans){
