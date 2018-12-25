@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1522701076 source:d:\cb projects\tema 7\sales_data.cpp
+	"../Tema 2/include/Sales_data.h"
+	<iostream>
+
+1523142600 d:\cb projects\tema 2\include\sales_data.h
+	<string>
+	<iostream>
+
+1523208680 source:d:\cb projects\tema8\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"../Tema 2/include/Sales_data.h"
+

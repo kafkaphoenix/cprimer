@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tema 7" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Tema 7" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="Tema 7/include" />
+					<Add directory="include/Tema 7/include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Tema 7" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="Tema 7/include" />
+					<Add directory="include/Tema 7/include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../Tema 2/include/Sales_data.h" />
+		<Unit filename="../include/Tema 7/include/Account.h" />
+		<Unit filename="../include/Tema 7/src/Account.cpp" />
+		<Unit filename="Sales_data.cpp" />
+		<Unit filename="include/Debug.h" />
+		<Unit filename="include/Person.h" />
+		<Unit filename="include/Screen.h" />
+		<Unit filename="include/Window_mgr.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Debug.cpp" />
+		<Unit filename="src/Person.cpp" />
+		<Unit filename="src/Screen.cpp" />
+		<Unit filename="src/Window_mgr.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

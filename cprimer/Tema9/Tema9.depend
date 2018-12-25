@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1523785934 source:d:\cb projects\tema9\main.cpp
+	<iostream>
+	<string>
+	<array>
+	<vector>
+	<list>
+	<deque>
+	<forward_list>
+	<typeinfo>
+	<regex>
+
+1523787147 source:d:\cb projects\tema9\src\fecha.cpp
+	"Fecha.h"
+	<string>
+
+1523787418 d:\cb projects\tema9\include\fecha.h
+	<string>
+	<iostream>
+

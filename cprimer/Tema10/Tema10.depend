@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524170996 source:d:\cb projects\tema10\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<list>
+

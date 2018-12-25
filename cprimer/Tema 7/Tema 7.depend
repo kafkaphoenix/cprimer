@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1523048640 source:d:\cb projects\tema 7\main.cpp
+	<iostream>
+	<string>
+	"../Tema 2/include/Sales_data.h"
+	"Screen.h"
+
+1522709459 d:\cb projects\tema 2\include\sales_data.h
+	<string>
+	<iostream>
+
+1522701076 source:d:\cb projects\tema 7\sales_data.cpp
+	"../Tema 2/include/Sales_data.h"
+	<iostream>
+
+1522701076 source:d:\cb projects\tema 7\src\person.cpp
+	"../include/Person.h"
+	<iostream>
+
+1522767168 d:\cb projects\tema 7\include\person.h
+	<string>
+	<iostream>
+
+1522767038 source:d:\cb projects\tema 7\src\screen.cpp
+	"Screen.h"
+
+1523049686 d:\cb projects\tema 7\include\screen.h
+	<string>
+	<iostream>
+
+1523049775 source:d:\cb projects\tema 7\src\window_mgr.cpp
+	"Window_mgr.h"
+	<string>
+
+1523049686 d:\cb projects\tema 7\include\window_mgr.h
+	<vector>
+	"Screen.h"
+	<iostream>
+

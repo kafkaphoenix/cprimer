@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522430323 source:d:\cb projects\tema 2\main.cpp
+	<iostream>
+	<string>
+	"Sales_data.h"
+
+1522430323 d:\cb projects\tema 2\include\sales_data.h
+	<string>
+

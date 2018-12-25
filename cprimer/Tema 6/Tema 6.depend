@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1522580166 source:d:\cb projects\tema 6\main.cpp
+	<iostream>
+	<num.h>
+	<Chapter6.h>
+
+1522538215 source:d:\cb projects\tema 6\src\num.cpp
+	"num.h"
+
+1522538215 d:\cb projects\tema 6\include\num.h
+	<iostream>
+
+1522580657 source:d:\cb projects\tema 6\src\chapter6.cpp
+	<cstddef>
+	<string>
+	<iostream>
+	"Chapter6.h"
+
+1522580644 d:\cb projects\tema 6\include\chapter6.h
+	<cstddef>
+	<string>
+	<iostream>
+
